@@ -1,0 +1,11 @@
+{
+  "name": "frontend",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "bun i && rsbuild dev"
+  },
+  "devDependencies": {
+    "@rsbuild/core": "1.0.1-rc.4"
+  }
+}

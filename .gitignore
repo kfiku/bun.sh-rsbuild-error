@@ -1,0 +1,17 @@
+node_modules
+build
+test
+src/**.js
+.idea
+.vscode
+
+coverage
+*.log
+
+.env.local
+.env
+
+temp
+
+# Local configuration
+config/local.json
